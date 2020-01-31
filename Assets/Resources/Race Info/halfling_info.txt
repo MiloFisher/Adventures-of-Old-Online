@@ -1,0 +1,6 @@
+Loot Trader
+In Stores, you can purchase items for their "sell" cost rather than their "buy" cost
+-3
++4
+-1
++0

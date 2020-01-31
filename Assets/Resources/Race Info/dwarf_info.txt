@@ -1,0 +1,6 @@
+Loot Hoarder
+Max inventory extended to 7
++1
+-2
+-3
++12

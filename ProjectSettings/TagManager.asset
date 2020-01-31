@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player Info
+  - Server Info
+  - Tile
+  - Node
+  - Barrier
+  - Test
+  - Quest
+  - General
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Barrier
+  - Tile
+  - Node Phase 1
+  - Node Phase 2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 45842949
+    locked: 0
+  - name: Foreground
+    uniqueID: 3362126347
+    locked: 0
+  - name: UI
+    uniqueID: 1529190491
+    locked: 0
+  - name: Display 2
+    uniqueID: 607325453
+    locked: 0
+  - name: Display 1
+    uniqueID: 2130685153
+    locked: 0
+  - name: Display 0
+    uniqueID: 2760088979
+    locked: 0

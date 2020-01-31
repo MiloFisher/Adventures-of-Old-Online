@@ -1,0 +1,6 @@
+Magical Healing
+After winning combat, you are healed to full health
++0
++2
++3
+-15

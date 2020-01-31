@@ -1,0 +1,6 @@
+Enrage
+Whenever you take damage, increase your damage by +1 for this combat phase only
++3
++0
+-5
++6

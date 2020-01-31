@@ -1,0 +1,6 @@
+Half Horse
+Can move 5 spaces every turn instead of rolling for movement
++3
+-1
+-2
++0
